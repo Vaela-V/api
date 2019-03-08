@@ -1,5 +1,3 @@
-https://github.com/Vaela-V/Bad_Joke/invitations
-
 package main
 
 import (
